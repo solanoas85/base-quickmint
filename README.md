@@ -18,8 +18,9 @@ It was built to make it easy to mint NFTs and demonstrate interaction with **ERC
 ## 🚀 How to Use
 1. Connect your wallet (MetaMask or similar) to the **Base Sepolia Testnet**.
 2. Access the live site hosted via **GitHub Pages**:  
+   **[🔗 Mint Your NFT Here](https://solanoas85.github.io/base-quickmint/)**
 3. Click **Mint NFT** and confirm the transaction in your wallet.
-4. Once the transaction is confirmed, your NFT will be visible on **BaseScan**.
+4. Once the transaction is confirmed, your NFT will be visible on **[BaseScan](https://sepolia.basescan.org/)**.
 
 ---
 
@@ -28,6 +29,15 @@ It was built to make it easy to mint NFTs and demonstrate interaction with **ERC
 - **Ethers.js** for blockchain interaction
 - **HTML + JavaScript** for the frontend
 - **GitHub Pages** for deployment
+
+---
+
+## 📡 Connect with Base
+Stay updated and connected with the Base ecosystem:  
+- 🐦 [@base](https://x.com/base)  
+- 🐦 [@baseapp](https://x.com/baseapp)  
+- 🐦 [@ScanQRBase](https://x.com/ScanQRBase)  
+- 🐦 [@optimismFND (OP)](https://x.com/optimismFND)  
 
 ---
 
