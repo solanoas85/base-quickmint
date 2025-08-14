@@ -1,49 +1,25 @@
-🪙 Base QuickMint
+# Base QuickMint
 
-Base QuickMint é um dApp simples para mintar NFTs ERC-721 na rede Base Sepolia Testnet de forma rápida, utilizando um contrato inteligente e um frontend leve hospedado no GitHub Pages.
+![Base QuickMint Logo](assets/base_quickmint_logo.png)
 
-🚀 Funcionalidades
+## 📌 Sobre o Projeto
+O **Base QuickMint** é um dApp simples para **mintagem de NFTs** na **Base Sepolia Testnet**.  
+Foi criado para facilitar e demonstrar a interação com contratos ERC-721 na rede Base.
 
-Mint de NFT com um clique
+## 🚀 Funcionalidades
+- Conectar sua carteira Web3 (Metamask, etc.)
+- Mintar um NFT diretamente na Base Sepolia
+- Interface simples e rápida
 
-Conexão via MetaMask
+## 🔧 Tecnologias Utilizadas
+- Solidity (contrato inteligente ERC-721)
+- HTML + JavaScript (frontend)
+- MetaMask / ethers.js
+- GitHub Pages (deploy do frontend)
 
-Código aberto e auditável
+## 🌐 Deploy
+Acesse o dApp aqui:  
+👉 [Base QuickMint no GitHub Pages](https://solanoas85.github.io/base-quickmint/)
 
-Implantado na Base Sepolia
-
-🔗 Links Importantes
-
-Frontend: Clique para acessar
-
-Contrato no BaseScan: 0xB188cAf7D6906030d43a4f54aE5d5F34F64b7Bcd
-
-📄 Contrato
-
-Padrão: ERC-721
-
-Nome: Base QuickMint
-
-Símbolo: BQM
-
-🛠 Como usar
-
-Acesse o site do dApp
-
-Conecte sua carteira na rede Base Sepolia
-
-Clique no botão Mint NFT
-
-Aguarde a transação ser confirmada e veja seu NFT na carteira
-
-⚙️ Deploy
-
-Rede: Base Sepolia
-
-Framework: HTML + JavaScript simples
-
-Hospedagem: GitHub Pages
-
-📜 Licença
-
-Este projeto está sob a licença MIT.
+## 📜 Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
